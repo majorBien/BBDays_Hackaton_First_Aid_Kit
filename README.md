@@ -17,7 +17,7 @@ https://github.com/majorBien/BBDays-Hackathon_Embedded_First_Aid_Kit
 
 This innovative IoT system manages a network of distributed first aid kits in outdoor and remote environments, utilizing LoRaWAN technology for long-range communication. Each first aid kit functions as an HTTP-to-LoRaWAN gateway, enabling seamless data transfer between the web interface and the LoRaWAN network. 
 
-![image](https://github.com/user-attachments/assets/afb8b5da-bbd2-4731-842b-cc371c621042)
+![image](https://github.com/user-attachments/assets/b58bce91-c03a-453b-9410-948441fdf937)
 
 
 
