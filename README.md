@@ -49,8 +49,6 @@ Desktop server app for IoT-Based Distributed First Aid Kit System admins:
 
 ![admin](https://github.com/user-attachments/assets/2179b578-6e85-43eb-a0dc-e1c89f3e69e5)
 
-![image](https://github.com/user-attachments/assets/d7156940-22b2-46c8-857e-b48dd74c816a)
-
 ![image](https://github.com/user-attachments/assets/a39e680b-6d26-4d38-877a-4cad60f2a1af)
 
 ![image](https://github.com/user-attachments/assets/a90b9e45-3677-47b8-8a30-fabb1f3f585a)
